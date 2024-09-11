@@ -1,10 +1,19 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
+    img: "/paypal-clone-project.png",
+    title: "PayPal Clone",
+    description:
+      "A PayPal Clone is a wallet app where you can also transfer money to other users",
+    tech_stack: ["NextJS", "Express", "PosgreSQL"],
+    github_url: "https://github.com/rahulrawat17/paytm-clone",
+    demo_url: "",
+  },
+  {
     img: "/cricket-scorer-project.png",
     title: "Cricket Scorer",
     description:
-      "A Cricket Scorer App for storing live gully cricket scores",
+      "A Cricket Scorer App is for storing live gully cricket scores",
     tech_stack: ["ReactJs"],
     github_url: "https://github.com/rahulrawat17/cricket-score-saver",
     demo_url: "https://rahulrawat17.github.io/cricket-score-saver/",
@@ -16,7 +25,7 @@ export const ProjectList = [
       "A E-Commerce App with features such as buy, add to cart, review, rating, etc",
     tech_stack: ["ReactJs", "Node", "MongoDB"],
     github_url: "https://github.com/rahulrawat17/e-commerce-react-redux",
-    demo_url: "https://rahulrawat17.github.io/e-commerce-react-redux/",
+    demo_url: "",
   },
   {
     img: "/image-search-project.png",
