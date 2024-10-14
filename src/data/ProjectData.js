@@ -66,24 +66,16 @@ export const stackList = [
     name: "Typescript",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
-    name: "Git",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "React Native",
+    img: "/redux_icon.svg",
+    name: "Redux",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-    name: "Firebase",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
-    name: "MongoDB",
+    img: "/express_icon.svg",
+    name: "Express",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
@@ -94,12 +86,20 @@ export const stackList = [
     name: "Flask",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    name: "C",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    name: "Git",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    name: "Java",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
+    name: "Firebase",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
+    name: "MongoDB",
+  },
+  {
+    img: "https://tanstack.com/_build/assets/logo-color-100w-lPbOTx1K.png",
+    name: "TanStack",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
