@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](https://https://rahulrawat.vercel.app/)
+Live Preview - [Click Here](https://rahulrawat.vercel.app/)
 
 # 🛠 Installation and Setup Instructions
 
